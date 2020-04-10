@@ -17,7 +17,7 @@ Basta che clicchiate sull'immagine qui sotto:
 
 Qui invece trovate un piccolo video introduttivo sull'uso dello strumento:
 
-[![Watch the video](https://img.youtube.com/vi/zUJUfqTxYwc/maxresdefault.jpg)](https://youtu.be/zUJUfqTxYwc)
+[![Watch the video](http://i3.ytimg.com/vi/zUJUfqTxYwc/maxresdefault.jpg)](https://youtu.be/zUJUfqTxYwc)
 
 ## English getting started
 
